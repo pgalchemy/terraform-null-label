@@ -1,6 +1,6 @@
 {
   "name": "terraform-null-label",
-  "version": "0.14.1",
+  "version": "0.15.0",
   "description": "Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])",
   "main": "main.tf",
   "directories": {
