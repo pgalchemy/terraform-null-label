@@ -1,0 +1,24 @@
+{
+  "name": "terraform-null-label",
+  "version": "0.14.1",
+  "description": "Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])",
+  "main": "main.tf",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgalchemy/terraform-null-label.git"
+  },
+  "author": "Jeremiah Harlan <jeremiah.harlan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgalchemy/terraform-null-label/issues"
+  },
+  "homepage": "https://github.com/pgalchemy/terraform-null-label#readme"
+}
